@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\proyecto"
+		},
+		{
+			"path": "..\\ProyectoBoostrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proyecto"
+	}
+}
